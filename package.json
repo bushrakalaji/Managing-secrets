@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bushrakalaji/Managing-secrets/issues"
   },
-  "homepage": "https://github.com/bushrakalaji/Managing-secrets#readme"
+  "homepage": "https://github.com/bushrakalaji/Managing-secrets#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
